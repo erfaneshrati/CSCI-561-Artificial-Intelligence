@@ -1,0 +1,15 @@
+Yes
+France,England,South Korea,Tunisia1,Chile1
+Germany,Switzerland,Saudi Arabia,Tunisia2,Chile2
+Russia1,Croatia,Iran1,Morocco,Chile3
+Russia2,Denmark,Japan,Nigeria,Uruguay
+Russia3,Iceland,Australia,Colombia
+Russia4,Serbia,Iran2,Peru,Panama1
+Portugal,Spain1,Iran3,Bolivia
+Belgium,Spain2,Iran4,Chile4,Panama2
+Poland,Spain3,China,Tunisia3,Panama3
+Spain4,Sweden,Brazil,Panama4
+Italy,Tunisia4,Argentina,Mexico
+Netherlands,Egypt,USA
+Czech Republic,Senegal
+Paraguay,Costa Rica

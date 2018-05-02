@@ -1,0 +1,13 @@
+14
+5
+Russia1,Russia2,Russia3,Russia4,Germany,Brazil,Portugal,Argentina,Belgium,Poland,France
+Spain1,Spain2,Spain3,Spain4,Peru,Switzerland,England,Colombia,Mexico,Uruguay,Croatia
+Denmark,Iceland,Costa Rica,Sweden,Tunisia1,Tunisia2,Tunisia3,Tunisia4,Egypt,Senegal,Iran1,Iran2,Iran3,Iran4
+Australia,Japan,Morocco,Panama1,Panama2,Panama3,Panama4,South Korea,Saudi Arabia,USA,Bolivia
+Chile1,Chile2,Chile3,Chile4,Paraguay,Serbia,Nigeria,Italy,Netherlands,Czech Republic,China
+AFC:South Korea,Saudi Arabia,Iran1,Iran2,Iran3,Iran4,Japan,Australia,China
+CAF:Tunisia1,Tunisia2,Tunisia3,Tunisia4,Egypt,Senegal,Morocco,Nigeria
+CONCACAF:Mexico,Panama1,Panama2,Panama3,Panama4,Costa Rica,USA
+CONMEBOL:Brazil,Argentina,Uruguay,Colombia,Peru,Bolivia,Chile1,Chile2,Chile3,Chile4,Paraguay
+UEFA:France,Germany,England,Russia1,Russia2,Russia3,Russia4,Portugal,Belgium,Poland,Switzerland,Croatia,Denmark,Iceland,Serbia,Spain1,Spain2,Spain3,Spain4,Sweden,Italy,Netherlands,Czech Republic
+OFC:None
